@@ -1,3 +1,7 @@
+CSCE 5215
+Project 2
+Troy Krupinski
+
 Purpose:
 This project contains Image classification on the realistic CelebA dataset CelebA
 Dataset (cuhk.edu.hk )large-scale dataset. This dataset contains images, annotations, and
